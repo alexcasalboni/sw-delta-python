@@ -1,0 +1,1 @@
+diff-match-patch-python==1.0.2
