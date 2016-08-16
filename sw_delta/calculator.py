@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+""" Delta calculation logic (wrapping diff_match_path)  """
 from diff_match_patch import diff_unicode, diff_str
 
 

@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+""" sw_delta custom exceptions """
 
 class InvalidFile(IOError):
     """ Raised when a file is missing """

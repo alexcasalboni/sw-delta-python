@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+""" Setup script for sw_delta """
 from setuptools import setup, find_packages
 
 setup(
