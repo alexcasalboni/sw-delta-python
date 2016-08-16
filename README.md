@@ -36,6 +36,13 @@ def get_script_diff(name, version):
 
 ```
 
+## How to run tests (nose)
+
+```Python
+pip install nose
+nosetests test
+
+```
 
 ## API explanation
 
