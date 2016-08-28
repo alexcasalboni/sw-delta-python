@@ -39,8 +39,8 @@ def get_script_diff(name, version):
 ## How to run tests (nose)
 
 ```Python
-pip install nose
-nosetests test
+pip install -r requirements-dev.txt
+nosetests
 
 ```
 
