@@ -10,3 +10,6 @@ class InvalidAskedFile(InvalidFile):
 
 class InvalidCachedFile(InvalidFile):
     """ Raised when the cached file is missing """
+
+class SeparatorException(Exception):
+    """ Raised when no separator could be chosen """
